@@ -1,6 +1,4 @@
-- Hi hi people
-- I like video games and music
-- I've learned HTML, CSS, and some Python
+Hi hi people. I like video games and music. I've learned HTML, CSS, and some Python
 
 
 <!---
